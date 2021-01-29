@@ -59,13 +59,13 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright © 2020 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright ©2021 HCS"
 
 # banner
 [Languages.en.params.banner]
 title = "Harlon Government Services Portal"
 subtitle = "Find government application forms and services"
-bg_image = "images/banner.jpg"
+bg_image = "images/banner.png"
 placeholder = "Find services or forms by typing here"
 
 # call to action
@@ -92,30 +92,30 @@ url = "faq"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "contact"
-url = "contact"
+name = "wiki"
+url = "https://harlonserver.miraheze.org/wiki/Main_Page"
 weight = 3
 
 # Dropdown menu
 [[Languages.en.menu.main]]
 weight = 4
-name = "docs"
+name = "services"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "docs"
-  name = "Installation"
+  parent = "services"
+  name = "Forms"
   url = "installation"
   weight = 1
 
   [[Languages.en.menu.main]]
-  parent = "docs"
+  parent = "services"
   name = "Billing and Pricing"
   url = "billing-pricing"
   weight = 2
 
   [[Languages.en.menu.main]]
-  parent = "docs"
+  parent = "services"
   name = "Features"
   url = "features"
   weight = 3
