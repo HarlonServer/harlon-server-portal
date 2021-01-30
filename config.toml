@@ -96,9 +96,14 @@ name = "wiki"
 url = "https://harlonserver.miraheze.org/wiki/Main_Page"
 weight = 3
 
+[[Languages.en.menu.main]]
+name = "dynmap"
+url = "http://dynmap.harlonserver.net"
+weight = 4
+
 # Dropdown menu
 [[Languages.en.menu.main]]
-weight = 4
+weight = 5
 name = "services"
 hasChildren = true
 
