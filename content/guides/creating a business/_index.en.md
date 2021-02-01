@@ -29,3 +29,8 @@ This video guide helps you create a business on the server.
 	Amount (Replace 1 to the amount you want)
 	Item name (Replace Bread to the name of the item you put in the chest)
 	Price (Replace 1 to the price you want)
+
+
+{{< notice tip >}}
+  You can also register your company name, branding colours, and slogans similar to a trademark registration in real life. [**See the form here.**](/forms/company-registration)
+{{< /notice >}}
