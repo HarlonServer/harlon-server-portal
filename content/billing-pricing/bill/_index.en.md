@@ -1,5 +1,5 @@
 ---
-title: "How to pay your bill"
+title: "Donations"
 date: 2018-12-29T11:02:05+06:00
 lastmod: 2020-01-05T10:42:26+06:00
 weight: 3
@@ -8,64 +8,17 @@ draft: false
 keywords: ["money","payment"]
 ---
 
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
+Each year Harlon costs around $550 dollars to operate. Whilst Harlon is and will forever be a free server to play on, a donation page exists if you wish to make a financial contribution to help cover the operating expenses of the server.
 
-{{< notice note >}}
-  This is a simple note.
-{{</ notice >}}
+The donations made help us cover these yearly costs:
 
-{{< notice tip >}}
-  This is a simple tip.
-{{</ notice >}}
+- $432 USD/year for server hosting - currently an AMD Ryzen 5950X CPU & 10GB RAM.
+- $97 USD/year for website hosting - this covers in addition to the website itself the play.harlonserver.net & dynmap.harlonserver.net domains for example. This price is exchanged to USD from SEK (808 kr.) as of the exchange rate on 2021-02-25.
+- Circa $25 USD/year for plugin expenses - Based on the cost of plugins purchased for Harlon in 2020.
+- In total, this is $554 USD per year.
 
-{{< notice info >}}
-  This is a simple info.
-{{</ notice >}}
+We really appreciate any and all donations, as they help us keep Harlon running. Additionally, there is also a [Donator] rank which can be unlocked once you have donated.
+
+## [Donate Now](https://donate.harlonserver.net/)
 
 
-{{< tabs >}}
-  {{< tab "first" >}}
-   This is first tab
-  {{</ tab >}}
-
-  {{< tab "second" >}}
-  this is second tab
-  {{</ tab >}}
-
-  {{< tab "third" >}}
-  this is third tab
-  {{</ tab >}}
-{{</ tabs >}}
-
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
-
-### Image Example
-
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
-
-![image example](img-1.jpg "image")
-
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
-
-### Example Of Code Block
-
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png" >
-  <script src="/assets/js/main.js"></script>
-</head>
-```
-
-### Text and Quote
-
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
-
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
-
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.

@@ -4,7 +4,7 @@ baseURL = "https://examplesite.com/"
 # theme
 theme = "dot"
 # site title
-title = "Harlon City Server"
+title = "MyHarlon"
 # disable language
 disableLanguages = []
 # google analytics
@@ -47,11 +47,11 @@ icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "https://twitter.com/HarlonServer"
   
 [[params.social]]
-icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-money" # themify icon pack : https://themify.me/themify-icons
+link = "https://donate.harlonserver.net/"
   
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+icon = "" # themify icon pack : https://themify.me/themify-icons
 link = "#"
 
 ################################ English Language ######################
@@ -63,7 +63,7 @@ copyright = "Copyright ©2021 HCS"
 
 # banner
 [Languages.en.params.banner]
-title = "Harlon Government Services Portal"
+title = "MyHarlon"
 subtitle = "Find government application forms and services"
 bg_image = "images/banner.png"
 placeholder = "Find services or forms by typing here"
@@ -71,7 +71,7 @@ placeholder = "Find services or forms by typing here"
 # call to action
 [Languages.en.params.cta]
 enable = false
-title = "Didn't find an answer to your question?"
+title = "Didn't find what you were looking for?"
 content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
 # call to action button
 [Languages.en.params.cta.button]
@@ -110,12 +110,12 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "services"
   name = "Forms"
-  url = "installation"
+  url = "forms"
   weight = 1
 
   [[Languages.en.menu.main]]
   parent = "services"
-  name = "Billing and Pricing"
+  name = "Finances"
   url = "billing-pricing"
   weight = 2
 
